@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: serif;
+}
+
+.scheduleMain {
+  width:100%;
+  border-collapse: collapse;
+  border: 1;
+}
+
+.slotEntry {
+  text-align: center;
+}
+
+.scheduleCell {
+  text-align: center;
+}
+
+.slotStart {
+  width: 100%;
+}
+
+.scheduleCell{
+  background-color: #ccffff;
+  text-align: center;
+}
+
+.instEntry{
+  background-color: #FF69B4;
+}
+
+.availableTutorsTable{
+  width:100%;
+  text-align: center;
+  display:table;
+}
+.availableTAImage{
+  height: 80px;
+}
+.availableTAMain{
+  display: table-cell;
+}
+
+.availableTACell > p {
+  margin: 5px auto;
+}
+
+.scheduleHead {
+  border: solid 1px #222;
+}
+
+.headCell {
+  border: solid 1px #222;
+}
+
+.scheduleBody > tr > td {
+    border: solid 1px #222;
+}

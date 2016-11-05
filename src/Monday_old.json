@@ -1,0 +1,41 @@
+{
+  "Arulselvan Madhavan" : {
+    "display_name": "Arul",
+    "instructor":"No",
+    "location": {
+      "name":"WVH 3rd floor",
+      "additional_info":"Grey Hoodie"
+    },
+    "hours": {
+      "start":"3:30pm",
+      "end":"5:00pm"
+    },
+    "image":"http://www.ccs.neu.edu/course/cs1800/16F/graphics/Arulselvan.jpg"
+  },
+  "Javed Aslam" : {
+    "display_name": "Jay",
+    "instructor":"Yes",
+    "location": {
+      "name":"WVH Room#446",
+      "additional_info":""
+    },
+    "hours": {
+      "start":"09:00am",
+      "end":"10:00am"
+    },
+    "image":"http://www.ccs.neu.edu/course/cs1800/16F/graphics/jay.jpg"
+  },
+  "Rob Carney" : {
+    "display_name": "Rob",
+    "instructor":"No",
+    "location": {
+      "name":"WVH 3rd floor",
+      "additional_info":""
+    },
+    "hours": {
+      "start":"08:00am",
+      "end":"09:30am"
+    },
+    "image":"http://www.ccs.neu.edu/course/cs1800/16F/graphics/Mayuri.jpg"
+  }
+}
